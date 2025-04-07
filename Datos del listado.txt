@@ -1,0 +1,45 @@
+//let nombre = []
+//nombre.push("INTERESTELAR");
+//nombre.push("MARTE MISION RESCATE");
+//nombre.push("GRAN TURISMO");
+//nombre.push("CONTRA LO IMPOSIBLE");
+//nombre.push("AVENGERS END GAME");
+//nombre.push("BARBIE");
+//nombre.push("ELEMENTOS");
+//nombre.push("EL EXORCISTA DEL PAPA");
+//let protagonista = []
+//protagonista.push("Josep Cooper, Murp y Amelia Brand");
+//protagonista.push("Mark Watney");
+//protagonista.push("Jann Mardenborough");
+//protagonista.push("Christian Bale y Matt Damon");
+//protagonista.push("Tony Stark, Steve Rogers y Thor Odinson");
+//protagonista.push("Barbie y Ken");
+//protagonista.push("Ember Lumen y Wade");
+//protagonista.push("Father Gabriele Amorth");
+//let genero = []
+//genero.push("Ciencia Ficcion, Drama");
+//genero.push("Ciencia Ficcion, Aventura");
+//genero.push("Accion, Drama");
+//genero.push("Accion, Drama");
+//genero.push("Accion, Ciencia Ficcion");
+//genero.push("Drama, Fantasia");
+//genero.push("Comedia, Romance");
+//genero.push("Suspenso, Terror");
+//let premiacion = []
+//premiacion.push(true);
+//premiacion.push(true);
+//premiacion.push(false);
+//premiacion.push(true);
+//premiacion.push(true);
+//premiacion.push(false);
+//premiacion.push(false);
+//premiacion.push(false);
+//let duracion = []
+//duracion.push(2.49);
+//duracion.push(2.21);
+//duracion.push(2.15);
+//duracion.push(2.32);
+//duracion.push(3.00);
+//duracion.push(1.40);
+//duracion.push(1.33);
+//duracion.push(1.43);
