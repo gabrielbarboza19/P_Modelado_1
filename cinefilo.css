@@ -1,0 +1,54 @@
+/* Estilos generales */
+body {
+    background-color: #333; /* Gris oscuro */
+    color: white; /* Texto blanco */
+    font-family: Arial, sans-serif; /* Fuente */
+    text-align: center; /* Texto centrado */
+}
+
+/* Encabezado */
+header {
+    margin-bottom: 20px; /* Espacio entre el encabezado y el contenido */
+}
+
+header img {
+    vertical-align: middle; /* Alineación vertical al centro */
+    width: 100px; /* Tamaño de la imagen */
+    margin-right: 10px; /* Espacio a la derecha de la imagen */
+}
+
+/* Título */
+#titulo {
+    display: inline-block; /* Mostrar en línea con la imagen */
+    margin: 0; /* Eliminar márgenes */
+}
+
+/* Formularios */
+form {
+    display: inline-block; /* Mostrar en línea */
+    text-align: left; /* Alinear el texto a la izquierda */
+    margin-bottom: 20px; /* Espacio entre formularios */
+}
+
+/* Tabla */
+table {
+    border-collapse: collapse; /* Colapsar bordes de la tabla */
+    width: 90%; /* Ancho de la tabla */
+    margin: 0 auto; /* Centrar la tabla horizontalmente */
+}
+
+table th {
+    background-color: #555; /* Color de fondo para encabezados */
+    color: white; /* Texto blanco */
+    padding: 10px; /* Relleno interno */
+}
+
+table td {
+    border: 1px solid #ddd; /* Borde de celda */
+    padding: 8px; /* Relleno interno */
+}
+
+/* Footer */
+footer {
+    margin-top: 20px; /* Espacio entre el contenido y el pie de página */
+}
